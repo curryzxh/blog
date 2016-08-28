@@ -1,47 +1,8 @@
 ---
-title: 1234
+title: 博客终于勉强可以使用了
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+好久没写博客,发现现在不用MarkDown写博客貌似就没档次的感觉,这东西还真挺折腾的,可能只有程序员喜欢搞这个事情吧。
 
-## Quick Start
+看看自己以后能否坚持写写博客,说不定过个几年就没MarkDown什么事了
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
-test
-
-![test](http://ocgjgmee6.bkt.clouddn.com/2016-08-28-test.png)
-
-
-
-
-tttt
 
